@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+
 	var variavel1 string = "Variável do Tipo String" // Declaração explícita
 	variavel2 := "Variável 2"                        // Declaração implícita de variável
 	fmt.Println(variavel1)
